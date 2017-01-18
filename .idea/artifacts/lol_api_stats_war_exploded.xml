@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="lol-api-stats:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/lol_api_stats_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="lol-api-stats/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="lol-api-stats" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
